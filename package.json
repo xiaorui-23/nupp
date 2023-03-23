@@ -1,0 +1,51 @@
+{
+    "private": false,
+    "name": "nupp",
+    "version": "1.0.0",
+    "description": "一款由 typescript 编写的 数字转(汉字/大写)的 js 工具库",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "rollup -c ./rollup.config.js",
+        "publish": "npm publish",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/xiaorui-23/nupp",
+    "keywords": [
+        "数字",
+        "number",
+        "数字转汉字",
+        "数字转大写",
+        "将数字金额转(汉字/大写)金额"
+    ],
+    "type": "module",
+    "files": [
+        "LICENSE.md",
+        "README.md",
+        "package.json",
+        "dist"
+    ],
+    "author": {
+        "name": "Xiao Rui",
+        "email": "3399251596w@gmail.com",
+        "url": "https://github.com/xiaorui-23"
+    },
+    "license": "ISC",
+    "browserslist": [
+        "defaults",
+        "not ie < 8",
+        "last 2 versions",
+        "> 1%",
+        "iOS 7",
+        "last 3 iOS versions"
+      ],
+    "dependencies": {
+        "@babel/core": "^7.21.3",
+        "rollup": "^3.20.0",
+        "rollup-plugin-babel": "^4.4.0",
+        "rollup-plugin-commonjs": "^10.1.0",
+        "rollup-plugin-node-resolve": "^5.2.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "rollup-plugin-typescript2": "^0.34.1",
+        "typescript": "^5.0.2"
+    }
+}
