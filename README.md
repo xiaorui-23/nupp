@@ -32,7 +32,7 @@ yarn add nupp -s
 
 # 使用案例
 
-可点击 [此处](https://github.com/xiaorui-23/nupp/example/src/main.jss) 进行查看
+可点击 [此处](https://github.com/xiaorui-23/nupp) 中的 [example/src/main.js]() 进行查看
 
 # Option
 
