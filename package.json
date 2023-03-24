@@ -6,7 +6,7 @@
     "main": "dist/main.js",
     "scripts": {
         "build": "rollup -c ./rollup.config.js",
-        "publish": "pnpm run build & npm publish",
+        "publish": "npm run build & npm publish",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "homepage": "https://github.com/xiaorui-23/nupp",

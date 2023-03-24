@@ -14,7 +14,7 @@ interface NumberToUppercaseInterface {
      * 单位
      *
      * 当为 true 时将携带单位；
-     * 仅 type = sum 时有效，传递的 浮点数 将携带 角、分单位
+     * 仅 type = sum 时有效，若传递的 数据为 浮点数 将携带 角、分单位
      *
      * @default true
     */
