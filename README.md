@@ -22,6 +22,7 @@ yarn add nupp
 
 # 仓库地址
 
+- gitee: [点我前往](https://gitee.com/xiaorui-23/nupp)
 - github: [点我前往](https://github.com/xiaorui-23/nupp)
 
 
