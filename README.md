@@ -17,7 +17,7 @@ pnpm i nupp -s
 
 **yarn**
 ```
-yarn add nupp -s
+yarn add nupp
 ```
 
 # 仓库地址

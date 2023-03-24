@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nupp": "^1.0.0"
+  },
   "devDependencies": {
     "vite": "^4.2.0"
   }

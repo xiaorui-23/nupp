@@ -1,6 +1,8 @@
 
 
-import { numberToUppercase } from "../../dist/main"
+// import { numberToUppercase } from "../../dist/main"
+
+import { numberToUppercase } from "nupp"
 
 // 需要打开控制台查看输出结果
 
